@@ -1,0 +1,4 @@
+train: D:\project_1\datarubbish_train\train.txt
+val: D:\project_1\datarubbish_train\val.txt
+nc: 6
+names: ['Cardboard', 'Glass', 'Metal', 'Other', 'Paper', 'Plastic']

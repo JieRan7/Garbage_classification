@@ -1,0 +1,39 @@
+#测试图片,检查结果
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/03ba1ede-glass219_1.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/0ef78519-glass240.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/0f70b9c7-glass229_1.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/1 (12).jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/1 (41).jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/1 (86).jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/1d591017-glass89_1.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/1de3e9ca-img_15481.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/27.webp --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/2ceae4d4-paper244.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/2d4ee8a5-glass152.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/2ff4fd90-img_8785.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/2fff1435-img_9218.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/37.webp --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/3b3b2165-img_8823.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/3e16e233-img_9237.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/4cd1048f-img_44.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/5bebcee1-img_9204.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/5d8cdfa2-plastic56.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/5e0f67d1-img_8724.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/60.webp --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/64.webp --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/67.webp --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/73.webp --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/9.webp --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/banana (4).jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/banana (6).jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/can (123).jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/can (125).jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/can (29).jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/can (31).jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/can (32).jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/can (68).jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/chn5-w2560-h1440-19700101-080109-440069.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/chn5-w2560-h1440-19700101-080756-676738.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/chn5-w2560-h1440-19700101-080841-958843.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/chn5-w2560-h1440-19700101-081412-791050.jpg --conf 0.2 --save-txt --save-conf
+!python /kaggle/working/yolov5/detect.py --weights /kaggle/working/yolov5/runs/train/exp/weights/best.pt --source /kaggle/input/testimages/test111/chn5-w2560-h1440-19700101-081623-349496.jpg --conf 0.2 --save-txt --save-conf
